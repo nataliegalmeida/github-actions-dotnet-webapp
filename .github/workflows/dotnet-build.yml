@@ -1,4 +1,4 @@
-name: Meu primeiro Workflow - GitHub
+name: .NET Build Workflow
 
 on:
   push:
